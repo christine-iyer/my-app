@@ -1,7 +1,10 @@
-import React from 'react'
-
-export default function Docs() {
+// 'use client'
+const Docs = () => {
   return (
-    <div>Docs</div>
+    <div>
+      <h1>Oops! Something went wrong. Just kidding, this is where we smuggle all of the docs.</h1>
+    </div>
   )
 }
+
+export default Docs
