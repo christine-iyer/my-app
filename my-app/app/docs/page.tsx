@@ -2,7 +2,7 @@
 const Docs = () => {
   return (
     <div>
-      <h1>Oops! Something went wrong. Just kidding, this is where we smuggle all of the docs.      </h1>
+      <h1>Generic Docs Page    </h1>
     </div>
   )
 }

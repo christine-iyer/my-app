@@ -2,7 +2,7 @@
 const PName = ({params}) => {
      return (
        <div>
-         <h1>Start by documenting your P: {params.profile}</h1>
+         <h1>You have a  : {params.profile} in your cart</h1>
        </div>
      )
    }
